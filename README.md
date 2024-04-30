@@ -31,7 +31,8 @@
 - ##### Database
 
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="70" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png"></code>
-<code><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8t0A8mwWx62FT5k9xVWZcy_K5eH4RrZCfTw&usqp=CAU"></code> <code><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsVXbNtMTXsiA2AjO4OIOYHa-XaqaJhqzLVawPrrs_Q&s"></code> <code height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7nJp9cxNpSldcuGrxETHqBOGws87fzmF9Q&s"></code>
+<code><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8t0A8mwWx62FT5k9xVWZcy_K5eH4RrZCfTw&usqp=CAU"></code> <code><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsVXbNtMTXsiA2AjO4OIOYHa-XaqaJhqzLVawPrrs_Q&s"></code> <code><img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7nJp9cxNpSldcuGrxETHqBOGws87fzmF9Q&s" /></code>
+<code><img height="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png"/></code>
 <br>
 
 - ##### Tools
