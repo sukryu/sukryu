@@ -3,7 +3,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yun%20Hyeon%20Kim&fontSize=90) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom) -->
 
-### 👋 This is my profile
+### 👋 Hello! This is my profile
 
 ---
 #### 📞 Cantact me to this. 
@@ -52,3 +52,9 @@
 
 ![Jin Hyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukryu)
 [![Jin Hyeok's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sukryu)](https://git.io/streak-stats)
+
+---
+
+#### Made By my friend [ KYH-code ] (https://github.com/KYH-code)
+
+---
