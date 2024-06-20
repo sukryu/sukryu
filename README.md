@@ -18,7 +18,7 @@
 - 🏫 I am a student of Hannam University
 - 🌏 I am from South Korea and living in Osong.
 - 🏢 I am currently preparing for a job.
-- 🌱 I am currently learning Golang, Typescript, ASP.NET, Rust, Node.js, MySQL, PostgreSQL, Redis, Cassandra, MongoDB.
+- 🌱 I am currently learning Golang, Typescript, Node.js, MySQL, PostgreSQL, Redis, Cassandra, MongoDB.
 - 📈 I always try to improve myself.
 
 ---
